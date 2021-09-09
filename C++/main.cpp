@@ -36,7 +36,7 @@ class Solution {
         Solution(RawGraph, double, double);         // Constructor by average speed and maximum distance travel
         string a_star(string, string);              // Find shortest path based on A* algorithm
         double get_battery_charge_at(string);       // Get battery charge at station
-        double get_charging_time_beteen(string);    // Get calculated charging time between stations
+        double get_charging_time_wbeteen(string);   // Get calculated charging time between stations
         
     private:
         double speed = SPEED;                       // Km/hr
