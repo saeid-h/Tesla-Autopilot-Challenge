@@ -79,7 +79,7 @@ After finding the short path based on the A* algorithm, there is chance to get b
 * Add more charge to get the station i+2 if we have enough battery capacity, or
 * Full charge at station i.
 
-## Reults
+## Results
 My result for the given exaple is:
 ```bash
 Council_Bluffs_IA, Worthington_MN, 2.80748, Albert_Lea_MN, 0.00000, Onalaska_WI, 0.69868, Mauston_WI, 2.76405, Sheboygan_WI, 0.00000, Cadillac_MI
